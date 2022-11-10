@@ -21,7 +21,7 @@ By reviewing the summary, we can determine the following:
 ![analysis/Pyber_fare_summary.png](analysis/Pyber_fare_summary.png)
 
 By reviewing this graph, we can determine the following:
- - The time of year does not have an overall impact on Fare across city type, as they maintain mostly consistent 
+ - The time of year does not have an overall impact on Fare across city type, as they maintain consistency
 
 ## Summary
 
