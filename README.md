@@ -28,7 +28,7 @@ By reviewing this graph, we can determine the following:
 
 Recommendations to PyBer based on this analysis would be to:
 1. Increase the number of drivers in Rural cities to ensure there are enough drivers to meet demand.  Since the Average Fare per Ride is higher than both Suburban and Urban cities (all other factors equal) would lead to the assumption Rural city drivers are going further distances, thus more time consumed for each ride.  Having more drivers would eliminate this conflict, thus allowing for more trips.
-2. Reassess if so many drivers are required in Urban cities.  Considering there are more drivers, then rides over this timeframe, reducing drivers may also reduce adminstrative costs associated to maintaining them on the company ledgers.
-3. Collect additional data points, such as distance per ride, to enhance analysis and recommendations 
+2. Reassess if so many drivers are required in Urban cities.  Considering there are more drivers than rides over this timeframe, reducing drivers may also reduce adminstrative costs associated to maintaining them on the company ledgers.
+3. Collect additional data points, such as distance per ride, to enhance analysis and recommendations. 
 
  
