@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-The purpose of this project is to analyze and understand ride-sharing data by city type. Once complete, the decision-makers at PyBer can use the outputs to reevaluate and make informed decisions on how to run the business more efficiently.
+The purpose of this project is to analyze and understand ride-sharing data by city type. Once complete, the decision-makers at PyBer can use the outputs to re-evaluate and make informed decisions on how to run the business more efficiently.
 
 ## Results
 
