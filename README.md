@@ -8,11 +8,11 @@ The purpose of this project is to analyze and understand ride-sharing data by ci
 
 ### Ride-sharing summary by City Type
 
-[Resources/Pyber_Summary.png](Resources/Pyber_Summary.png)
+![Resources/Pyber_Summary.png](Resources/Pyber_Summary.png)
 
 ### Total Fare by City Type
 
-[analysis/Pyber_fare_summary.png](analysis/Pyber_fare_summary.png)
+![analysis/Pyber_fare_summary.png](analysis/Pyber_fare_summary.png)
 
 ## Summary
 
